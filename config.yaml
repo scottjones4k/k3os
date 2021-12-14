@@ -1,0 +1,7 @@
+k3os:
+  token: FastCatBecomesBraveVegetable
+  k3s_args:
+  - server
+  - "--cluster-init"
+  - "--disable=traefik"
+  - "--disable=servicelb"
