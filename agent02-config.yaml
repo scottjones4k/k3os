@@ -1,0 +1,5 @@
+hostname: k3s-agent02
+k3os:
+  password: Nodafumi74!
+  server_url: https://10.0.8.83:6443
+  token: FastCatBecomesBraveVegetable
