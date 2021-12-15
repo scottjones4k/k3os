@@ -1,0 +1,10 @@
+hostname: k3s-master03
+k3os:
+  password: Nodafumi74!
+  server_url: https://10.0.8.83:6443
+  token: FastCatBecomesBraveVegetable
+  k3s_args:
+  - server
+  - "--cluster-init"
+  - "--disable=traefik"
+  - "--disable=servicelb"
